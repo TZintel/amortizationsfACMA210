@@ -1,7 +1,7 @@
 
 # Amortization With Sinking Fund
 
-This project was created to determine three questions for a mortgage with annual lump sum payments. The EXCEL File contains the questions and an amortization table relating to the mortgage.
+This project was created to determine three questions for a mortgage with annual lump sum payments. The EXCEL File contains the questions and an amortization table relating to the mortgage. The orange table takes the inputs of the problem
 
 ## The terms of the mortgage
 
